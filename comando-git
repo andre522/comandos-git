@@ -11,6 +11,17 @@ git add nomeDoArquivo
 SALVAR AS MUDANÇAS DO ARQUIVO E CRIAR UM SNAPSHOT
 git commit -m "mensagem"
 
+MOSTRAR INFORMAÇÕES DE COMMITS
+git log
+
+MOSTRAR MAIS ALGUMAS INFORMAÇÕES DE COMMITS
+git log --decorate
+
+FILTRA COMMITS PELO NOME DO AUTHOR
+git log --author='nomeAutor'
+
+
+
 
 
 
