@@ -1,0 +1,9 @@
+INICIAR UM REPOSITORIO DO GIT:
+cd nomeDaPasta
+git init
+
+VERIFICAR COMO ESTÁ O REPOSITORIO NO MOMENTO
+git status
+
+
+
