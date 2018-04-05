@@ -5,5 +5,12 @@ git init
 VERIFICAR COMO ESTÁ O REPOSITORIO NO MOMENTO
 git status
 
+ADICIONAR ARQUIVO NO RESPOSITORIO DO GIT
+git add nomeDoArquivo
+
+SALVAR AS MUDANÇAS DO ARQUIVO E CRIAR UM SNAPSHOT
+git commit -m "mensagem"
+
+
 
 
