@@ -36,6 +36,14 @@ git diff
 VERIFICAR QUAIS ARQUIVOS FORAM MODIFICADOS
 git diff --name-only
 
+RETORNAR COMMIT PARA USTANGED PRONTO PARA SER COMMITADO
+git reset --soft hashAntesDoUltimoCommit
+
+RETORNA COOMIT PARA MODIFY PRONTA PARA ADCIONAR PARA USTANGED
+git reset --mixed hashAntesDoUltimoCommit
+
+REMOVE O ULTIMO COMMIT 
+git reset --hard hashAntesDoUltimoCommit
 
 
 
