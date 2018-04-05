@@ -27,8 +27,11 @@ git shortlog
 MOSTRA SOMENTE NOMES DAS PESSOAS QUE EFETUARAM COMMIT E QUANTOS FIZERAM
 git shortlog -sn
 
-MOSTRAR O QUE FOI ADICIONADO NO COMMIT
+mostrar o que foi adicionado no commit
 git show hash
+
+VERIFICA AS MUDANÇAS OCORRRIDA NO ARQUIVO ANTES DE COMMITAR
+git diff
 
 
 
