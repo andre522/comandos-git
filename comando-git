@@ -48,6 +48,18 @@ git reset --hard hashAntesDoUltimoCommit
 CRIAR BRANCH
 git checkout -b nomeDoBranch
 
+MOSTRA O BRANCH QUE ESTOU NO MEMOMENTO
+git branch
+
+MUDAR DE BRANCH 
+git checkout nomeDoBranch
+
+DELETAR BRANCH 
+git branch -D nomeDoBranch
+
+CRIAR UM REBASE 
+git rebase nomeDoBranch
+
 
 
 
