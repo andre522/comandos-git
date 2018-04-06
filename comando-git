@@ -45,6 +45,9 @@ git reset --mixed hashAntesDoUltimoCommit
 REMOVE O ULTIMO COMMIT 
 git reset --hard hashAntesDoUltimoCommit
 
+CRIAR BRANCH
+git checkout -b nomeDoBranch
+
 
 
 
