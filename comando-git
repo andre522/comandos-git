@@ -57,7 +57,7 @@ git checkout nomeDoBranch
 DELETAR BRANCH 
 git branch -D nomeDoBranch
 
-CRIAR UM REBASE 
+CRIAR UM REBASE NO REPOSITORIO
 git rebase nomeDoBranch
 
 
